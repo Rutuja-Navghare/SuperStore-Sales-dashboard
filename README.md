@@ -15,4 +15,7 @@
 
    4.Actionable Insights and Recommendations: End goal is to insights and actionable information that can drive strategic deci support the supermarket's goals for growth, efficiency, satisfaction
 
+ # Technology Used
+    Power BI
+
    
